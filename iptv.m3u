@@ -11,3 +11,5 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
 #EXTINF:-1 group-title="RTM Paris 2024 Olympics" ch-number="996" tvg-id="996" tvg-chno="996" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-6.png",Channel 6 Paris 2024 Olympics
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
